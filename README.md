@@ -1,1 +1,0 @@
-# Banner_dyn_template
