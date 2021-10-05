@@ -1,0 +1,33 @@
+function getVungleReplacementTokens() { 
+    return { 
+        "aa": "complete", 
+        "ab": "9999", 
+        "ac": "video_and_endcard", 
+        "ad": "https://apps.apple.com/us/app/lords-mobile-kingdom-wars/id1071976327?uo=4", 
+        "ae": "3.5", 
+        "af": "0", 
+        "ag": "25", 
+        "ah": "true", 
+        "ai": "Are you sure you want to skip this ad? You must finish watching to claim your reward.", 
+        "aj": "9999", 
+        "ak": "Close", 
+        "al": "Continue", 
+        "am": "Close this ad?",
+        "an": "https://cdn-lb.vungle.com/zen/ca0303en1080x1920-720x1280-Q2.mp4", 
+        "ao": "true", 
+        "ap": "false", 
+        "aq": "overlay_view", 
+        "ar": "overlay_view", 
+        "as": "overlay_view", 
+        "at": "overlay_view", 
+        "au": "overlay_view", 
+        "av": "default", 
+        "aw": "default", 
+        "ax": "false", 
+        "ay": "0", 
+        "az": "true", 
+        "ba": "false", 
+        "bb": "https://cdn-lb.vungle.com/creative/design-framework/assets/vungle-privacy.svg", 
+        "bc": "https://privacy.vungle.com"
+    }; 
+}

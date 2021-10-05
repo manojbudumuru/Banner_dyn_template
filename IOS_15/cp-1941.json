@@ -1,0 +1,117 @@
+{
+	"ads": [{
+		"placement_reference_id": "MARIAN",
+		"ad_markup": {
+			"id": "6132008bcb498c485f1f980e",
+			"campaign": "607942c2dd33da0010833544|5ee764c7d8bb471a4a59bc67|datasci--blr_primary_aatest--{\"campaign_ab_test\":\"control\"}--success--meister|6132008bcb498c485f1f980e",
+			"app_id": "$0${\"app_id\":\"570d910069ffddee0f000020\",\"eventID\":\"6132008bcb498c485f1f980e\"}",
+			"expiry": 1831271692,
+			"tpat": {
+				"moat": {
+					"is_enabled": false,
+					"extra_vast": ""
+				},
+				"clickUrl": ["https://apps.apple.com/us/app/lords-mobile-kingdom-wars/id1071976327?uo=4", "https://events.api.vungle.com/api/v5/tpat?adv=570d910069ffddee0f000020\u0026cid=607942c2dd33da0010833544\u0026crid=5ee764c7d8bb471a4a59bc67\u0026event_id=6132008bcb498c485f1f980e\u0026event_type=click\u0026hb=false\u0026ic=true\u0026int=true\u0026os=iOS\u0026pid=5e7b52f19de03d630024cc53\u0026pub=5e7b52ef9de03d630024ca87\u0026test=false\u0026vid=3929236991\u0026vid_type=GDPR"],
+				"checkpoint.0": ["https://impression.appsflyer.com/id1071976327?pid=vungle_int\u0026c=vugl.ios.lo.t1.vd.skan.20210422\u0026idfa=00000000-0000-0000-0000-000000000000\u0026clickid=6132008bcb498c485f1f980e\u0026af_siteid=5e7b52ef9de03d630024ca87\u0026vungleappid=570d910069ffddee0f000020\u0026af_sub2=TestAppiOSNew\u0026af_adset=ca0303en1080x1920_30s_Portrait%26LordsMobileNew_EN_200615_iOS_CIEC_ca0322h5__ASOI1_PRE-AC", "https://tpat.api.vungle.com/v1/tpat?event_id=6132008bcb498c485f1f980e\u0026cid=607942c2dd33da0010833544\u0026crid=5ee764c7d8bb471a4a59bc67\u0026ifa=00000000-0000-0000-0000-000000000000\u0026test=0\u0026os=iOS\u0026event_type=start", "https://events.api.vungle.com/api/v5/tpat?adv=570d910069ffddee0f000020\u0026cid=607942c2dd33da0010833544\u0026crid=5ee764c7d8bb471a4a59bc67\u0026event_id=6132008bcb498c485f1f980e\u0026event_type=start\u0026hb=false\u0026ic=true\u0026int=true\u0026os=iOS\u0026pid=5e7b52f19de03d630024cc53\u0026pub=5e7b52ef9de03d630024ca87\u0026test=false\u0026vid=3929236991\u0026vid_type=GDPR"],
+				"checkpoint.25": ["https://tpat.api.vungle.com/v1/tpat?event_id=6132008bcb498c485f1f980e\u0026cid=607942c2dd33da0010833544\u0026crid=5ee764c7d8bb471a4a59bc67\u0026ifa=00000000-0000-0000-0000-000000000000\u0026test=0\u0026os=iOS\u0026event_type=firstQuartile", "https://events.api.vungle.com/api/v5/tpat?adv=570d910069ffddee0f000020\u0026cid=607942c2dd33da0010833544\u0026crid=5ee764c7d8bb471a4a59bc67\u0026event_id=6132008bcb498c485f1f980e\u0026event_type=firstQuartile\u0026hb=false\u0026ic=true\u0026int=true\u0026os=iOS\u0026pid=5e7b52f19de03d630024cc53\u0026pub=5e7b52ef9de03d630024ca87\u0026test=false\u0026vid=3929236991\u0026vid_type=GDPR"],
+				"checkpoint.50": ["https://tpat.api.vungle.com/v1/tpat?event_id=6132008bcb498c485f1f980e\u0026cid=607942c2dd33da0010833544\u0026crid=5ee764c7d8bb471a4a59bc67\u0026ifa=00000000-0000-0000-0000-000000000000\u0026test=0\u0026os=iOS\u0026event_type=midpoint", "https://events.api.vungle.com/api/v5/tpat?adv=570d910069ffddee0f000020\u0026cid=607942c2dd33da0010833544\u0026crid=5ee764c7d8bb471a4a59bc67\u0026event_id=6132008bcb498c485f1f980e\u0026event_type=midpoint\u0026hb=false\u0026ic=true\u0026int=true\u0026os=iOS\u0026pid=5e7b52f19de03d630024cc53\u0026pub=5e7b52ef9de03d630024ca87\u0026test=false\u0026vid=3929236991\u0026vid_type=GDPR"],
+				"checkpoint.75": ["https://tpat.api.vungle.com/v1/tpat?event_id=6132008bcb498c485f1f980e\u0026cid=607942c2dd33da0010833544\u0026crid=5ee764c7d8bb471a4a59bc67\u0026ifa=00000000-0000-0000-0000-000000000000\u0026test=0\u0026os=iOS\u0026event_type=thirdQuartile", "https://events.api.vungle.com/api/v5/tpat?adv=570d910069ffddee0f000020\u0026cid=607942c2dd33da0010833544\u0026crid=5ee764c7d8bb471a4a59bc67\u0026event_id=6132008bcb498c485f1f980e\u0026event_type=thirdQuartile\u0026hb=false\u0026ic=true\u0026int=true\u0026os=iOS\u0026pid=5e7b52f19de03d630024cc53\u0026pub=5e7b52ef9de03d630024ca87\u0026test=false\u0026vid=3929236991\u0026vid_type=GDPR"],
+				"checkpoint.100": ["https://tpat.api.vungle.com/v1/tpat?event_id=6132008bcb498c485f1f980e\u0026cid=607942c2dd33da0010833544\u0026crid=5ee764c7d8bb471a4a59bc67\u0026ifa=00000000-0000-0000-0000-000000000000\u0026test=0\u0026os=iOS\u0026event_type=complete", "https://events.api.vungle.com/api/v5/tpat?adv=570d910069ffddee0f000020\u0026cid=607942c2dd33da0010833544\u0026crid=5ee764c7d8bb471a4a59bc67\u0026event_id=6132008bcb498c485f1f980e\u0026event_type=complete\u0026hb=false\u0026ic=true\u0026int=true\u0026os=iOS\u0026pid=5e7b52f19de03d630024cc53\u0026pub=5e7b52ef9de03d630024ca87\u0026test=false\u0026vid=3929236991\u0026vid_type=GDPR"],
+				"postroll.view": ["https://tpat.api.vungle.com/v1/tpat?event_id=6132008bcb498c485f1f980e\u0026cid=607942c2dd33da0010833544\u0026crid=5ee764c7d8bb471a4a59bc67\u0026ifa=00000000-0000-0000-0000-000000000000\u0026test=0\u0026os=iOS\u0026event_type=endcard_view", "https://events.api.vungle.com/api/v5/tpat?adv=570d910069ffddee0f000020\u0026cid=607942c2dd33da0010833544\u0026crid=5ee764c7d8bb471a4a59bc67\u0026event_id=6132008bcb498c485f1f980e\u0026event_type=endCardView\u0026hb=false\u0026ic=true\u0026int=true\u0026os=iOS\u0026pid=5e7b52f19de03d630024cc53\u0026pub=5e7b52ef9de03d630024ca87\u0026test=false\u0026vid=3929236991\u0026vid_type=GDPR"],
+				"postroll.click": ["https://app.appsflyer.com/id1071976327?pid=vungle_int\u0026c=vugl.ios.lo.t1.vd.skan.20210422\u0026idfa=00000000-0000-0000-0000-000000000000\u0026clickid=6132008bcb498c485f1f980e\u0026af_siteid=5e7b52ef9de03d630024ca87\u0026vungleappid=570d910069ffddee0f000020\u0026af_sub2=TestAppiOSNew\u0026af_adset=ca0303en1080x1920_30s_Portrait%26LordsMobileNew_EN_200615_iOS_CIEC_ca0322h5__ASOI1_PRE-AC", "https://tpat.api.vungle.com/v1/tpat?event_id=6132008bcb498c485f1f980e\u0026cid=607942c2dd33da0010833544\u0026crid=5ee764c7d8bb471a4a59bc67\u0026ifa=00000000-0000-0000-0000-000000000000\u0026test=0\u0026os=iOS\u0026event_type=endcard_click"],
+				"video.close": ["https://tpat.api.vungle.com/v1/tpat?event_id=6132008bcb498c485f1f980e\u0026cid=607942c2dd33da0010833544\u0026crid=5ee764c7d8bb471a4a59bc67\u0026ifa=00000000-0000-0000-0000-000000000000\u0026test=0\u0026os=iOS\u0026event_type=video_close", "https://events.api.vungle.com/api/v5/tpat?adv=570d910069ffddee0f000020\u0026cid=607942c2dd33da0010833544\u0026crid=5ee764c7d8bb471a4a59bc67\u0026event_id=6132008bcb498c485f1f980e\u0026event_type=videoClose\u0026hb=false\u0026ic=true\u0026int=true\u0026os=iOS\u0026pid=5e7b52f19de03d630024cc53\u0026pub=5e7b52ef9de03d630024ca87\u0026test=false\u0026vid=3929236991\u0026vid_type=GDPR"],
+				"video.unmute": ["https://tpat.api.vungle.com/v1/tpat?event_id=6132008bcb498c485f1f980e\u0026cid=607942c2dd33da0010833544\u0026crid=5ee764c7d8bb471a4a59bc67\u0026ifa=00000000-0000-0000-0000-000000000000\u0026test=0\u0026os=iOS\u0026event_type=unmute", "https://events.api.vungle.com/api/v5/tpat?adv=570d910069ffddee0f000020\u0026cid=607942c2dd33da0010833544\u0026crid=5ee764c7d8bb471a4a59bc67\u0026event_id=6132008bcb498c485f1f980e\u0026event_type=unmute\u0026hb=false\u0026ic=true\u0026int=true\u0026os=iOS\u0026pid=5e7b52f19de03d630024cc53\u0026pub=5e7b52ef9de03d630024ca87\u0026test=false\u0026vid=3929236991\u0026vid_type=GDPR"],
+				"video.mute": ["https://tpat.api.vungle.com/v1/tpat?event_id=6132008bcb498c485f1f980e\u0026cid=607942c2dd33da0010833544\u0026crid=5ee764c7d8bb471a4a59bc67\u0026ifa=00000000-0000-0000-0000-000000000000\u0026test=0\u0026os=iOS\u0026event_type=mute", "https://events.api.vungle.com/api/v5/tpat?adv=570d910069ffddee0f000020\u0026cid=607942c2dd33da0010833544\u0026crid=5ee764c7d8bb471a4a59bc67\u0026event_id=6132008bcb498c485f1f980e\u0026event_type=mute\u0026hb=false\u0026ic=true\u0026int=true\u0026os=iOS\u0026pid=5e7b52f19de03d630024cc53\u0026pub=5e7b52ef9de03d630024ca87\u0026test=false\u0026vid=3929236991\u0026vid_type=GDPR"],
+				"closeButtonClick": ["https://tpat.api.vungle.com/v1/tpat?event_id=6132008bcb498c485f1f980e\u0026cid=607942c2dd33da0010833544\u0026crid=5ee764c7d8bb471a4a59bc67\u0026ifa=00000000-0000-0000-0000-000000000000\u0026test=0\u0026os=iOS\u0026event_type=close_button_click"],
+				"nearCloseButtonClick": ["https://tpat.api.vungle.com/v1/tpat?event_id=6132008bcb498c485f1f980e\u0026cid=607942c2dd33da0010833544\u0026crid=5ee764c7d8bb471a4a59bc67\u0026ifa=00000000-0000-0000-0000-000000000000\u0026test=0\u0026os=iOS\u0026event_type=near_close_button_click"],
+				"download.ctaClick": ["https://tpat.api.vungle.com/v1/tpat?event_id=6132008bcb498c485f1f980e\u0026cid=607942c2dd33da0010833544\u0026crid=5ee764c7d8bb471a4a59bc67\u0026ifa=00000000-0000-0000-0000-000000000000\u0026test=0\u0026os=iOS\u0026event_type=cta_click"],
+				"download.fullScreenClick": ["https://tpat.api.vungle.com/v1/tpat?event_id=6132008bcb498c485f1f980e\u0026cid=607942c2dd33da0010833544\u0026crid=5ee764c7d8bb471a4a59bc67\u0026ifa=00000000-0000-0000-0000-000000000000\u0026test=0\u0026os=iOS\u0026event_type=fullscreen_click"],
+				"download.ASOIInteraction": ["https://tpat.api.vungle.com/v1/tpat?event_id=6132008bcb498c485f1f980e\u0026cid=607942c2dd33da0010833544\u0026crid=5ee764c7d8bb471a4a59bc67\u0026ifa=00000000-0000-0000-0000-000000000000\u0026test=0\u0026os=iOS\u0026event_type=asoi_interaction"],
+				"download.ASOIComplete": ["https://tpat.api.vungle.com/v1/tpat?event_id=6132008bcb498c485f1f980e\u0026cid=607942c2dd33da0010833544\u0026crid=5ee764c7d8bb471a4a59bc67\u0026ifa=00000000-0000-0000-0000-000000000000\u0026test=0\u0026os=iOS\u0026event_type=asoi_complete"],
+				"storeKitOverlay.autoOpen.storeEndcardTimer": ["https://tpat.api.vungle.com/v1/tpat?event_id=6132008bcb498c485f1f980e\u0026cid=607942c2dd33da0010833544\u0026crid=5ee764c7d8bb471a4a59bc67\u0026ifa=00000000-0000-0000-0000-000000000000\u0026test=0\u0026os=iOS\u0026event_type=store_kit_overlay_auto_open"],
+				"muteButtonClick": ["https://tpat.api.vungle.com/v1/tpat?event_id=6132008bcb498c485f1f980e\u0026cid=607942c2dd33da0010833544\u0026crid=5ee764c7d8bb471a4a59bc67\u0026ifa=00000000-0000-0000-0000-000000000000\u0026test=0\u0026os=iOS\u0026event_type=mute_button_click"],
+				"privacyButtonClick": ["https://tpat.api.vungle.com/v1/tpat?event_id=6132008bcb498c485f1f980e\u0026cid=607942c2dd33da0010833544\u0026crid=5ee764c7d8bb471a4a59bc67\u0026ifa=00000000-0000-0000-0000-000000000000\u0026test=0\u0026os=iOS\u0026event_type=privacy_button_click"],
+				"playableEndcardClick": ["https://tpat.api.vungle.com/v1/tpat?event_id=6132008bcb498c485f1f980e\u0026cid=607942c2dd33da0010833544\u0026crid=5ee764c7d8bb471a4a59bc67\u0026ifa=00000000-0000-0000-0000-000000000000\u0026test=0\u0026os=iOS\u0026event_type=playable_endcard_click"]
+			},
+			"delay": 0,
+			"showClose": 0,
+			"showCloseIncentivized": 0,
+			"countdown": 0,
+			"url": "",
+			"videoWidth": 0,
+			"videoHeight": 0,
+			"md5": "fake_md5",
+			"callToActionDest": "https://apps.apple.com/us/app/lords-mobile-kingdom-wars/id1071976327?uo=4",
+			"callToActionUrl": "https://apps.apple.com/us/app/lords-mobile-kingdom-wars/id1071976327?uo=4",
+			"adType": "vungle_mraid",
+			"templateURL": "https://cdn-lb.vungle.com/templates/custom_creative_bundles/5ee764c7d8bb471a4a59bc67/1604579024765/1604579024765-CIEC_ASOI1_PRE-AC_ca0322h5envungleportrait_LordsMobile_EN_200604_PLATFORM_PRIAL-2100.zip",
+			"templateSettings": {
+				"normal_replacements": {
+					"SK_ASOI_COMPLETE": "overlay_view",
+					"VIDEO_CLOSE_BUTTON_DELAY_SECONDS": "0",
+					"VIDEO_PROGRESS_BAR": "true",
+					"VUNGLE_PRIVACY_URL": "https://privacy.vungle.com",
+					"SK_SKDT": "overlay_view",
+					"EC_CLOSE_BUTTON_DELAY_SECONDS": "0",
+					"INCENTIVIZED_BODY_TEXT": "Are you sure you want to skip this ad? You must finish watching to claim your reward.",
+					"INCENTIVIZED_CLOSE_BUTTON_DELAY_SECONDS": "9999",
+					"INCENTIVIZED_CONTINUE_TEXT": "Continue",
+					"SHOW_EC_CLOSE_BUTTON_COUNTDOWN": "true",
+					"SK_CTA_ONLY": "overlay_view",
+					"START_MUTED": "false",
+					"CLOSE_BUTTON_DELAY_SECONDS": "9999",
+					"CREATIVE_VIEW_TYPE": "video_and_endcard",
+					"SKOVERLAY_DISMISSIBLE": "default",
+					"CTA_BUTTON_URL": "https://apps.apple.com/us/app/lords-mobile-kingdom-wars/id1071976327?uo=4",
+					"SK_ASOI_AGGRESSIVE": "overlay_view",
+					"VIDEO_SHOW_CTA": "false",
+					"FULL_CTA": "true",
+					"INCENTIVIZED_TITLE_TEXT": "Close this ad?",
+					"SKOVERLAY_POSITION": "default",
+					"SK_FSC": "overlay_view",
+					"ASOI_SETTINGS": "complete",
+					"DEVICE_ID": "3929236991",
+					"ENDCARD_ONLY_DURATION_SECONDS": "25",
+					"INCENTIVIZED_CLOSE_TEXT": "Close",
+					"DOWNLOAD_BUTTON_DELAY_SECONDS": "3.5",
+					"SESSION_ID": "6132008bcb498c485f1f980e",
+					"SHOW_VIDEO_CLOSE_BUTTON_COUNTDOWN": "false",
+					"FULL_CTA_OPTION": "fsc_on"
+				},
+				"cacheable_replacements": {
+					"VUNGLE_PRIVACY_LOGO": {
+						"url": "https://cdn-lb.vungle.com/creative/design-framework/assets/vungle-privacy.svg",
+						"extension": "svg"
+					},
+					"ENDCARD": {
+						"url": "https://cdn-lb.vungle.com/templates/custom_creative_bundles/5ee764c7d8bb471a4a59bc67/1604579024765/1604579024765-CIEC_ASOI1_PRE-AC_ca0322h5envungleportrait_LordsMobile_EN_200604_PLATFORM_PRIAL-2100.zip",
+						"extension": "zip"
+					},
+					"MAIN_VIDEO": {
+						"url": "https://cdn-lb.vungle.com/zen/ca0303en1080x1920-720x1280-Q2.mp4",
+						"extension": "mp4"
+					},
+					"IOS15_REPLACEMENTS": {
+						"url": "https://api.vungle.com/v5/replacements.js",
+						"extension": "js"
+					},
+					"IOS15_TOKEN_MAP":{
+						"url": "https://api.vungle.com/v5/tokenmap.js",
+						"extension": "js"
+					}
+				}
+			},
+			"templateId": "5f99548ea978a900107aa20c",
+			"template_type": "fullscreen",
+			"ad_market_id": "1071976327",
+			"chk": "fake_chk",
+			"retryCount": 3,
+			"asyncThreshold": 40,
+			"ad_token": "eyJjYW1wYWlnbiI6IjYwNzk0MmMyZGQzM2RhMDAxMDgzMzU0NHw1ZWU3NjRjN2Q4YmI0NzFhNGE1OWJjNjd8ZGF0YXNjaS0tYmxyX3ByaW1hcnlfYWF0ZXN0LS17XCJjYW1wYWlnbl9hYl90ZXN0XCI6XCJjb250cm9sXCJ9LS1zdWNjZXNzLS1tZWlzdGVyfDYxMzIwMDhiY2I0OThjNDg1ZjFmOTgwZSJ9",
+			"video_object_id": "5ee74e244f6fa417e7957d60",
+			"requires_sideloading": false,
+			"data_science_cache": "",
+			"timestamp": 1630666892
+		}
+	}]
+}
